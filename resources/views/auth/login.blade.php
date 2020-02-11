@@ -13,7 +13,7 @@
    <body>
          <div class="mid-class">
             <div class="art-right-sas">   
-                <h1 style="color:white;">Cherupushpam English Medium School | Kollam</h1>
+                <h1 style="color:white;">Cochin University College of Engineering Kuttanadu</h1>
                 <div class="clear"></div>
                 <hr>
                 <div class="clear"></div>
