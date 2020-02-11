@@ -41,7 +41,7 @@
             </div>
             <div class="art-left-sas">
                <h1 class="header-sas" >
-                  School Master Pro <br> 1.0
+                  MCA Project
                   <br>
                </h1>
             </div>
